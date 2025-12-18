@@ -1,6 +1,14 @@
 # Algorithm Visualizer
 
-An interactive, educational web application built with Next.js that visualizes fundamental computer science algorithms through smooth animations. Learn how sorting, searching, and graph traversal algorithms work step-by-step.
+## Project Introduction
+
+The Algorithm Visualizer project is an interactive learning platform that transforms core computer science algorithms into clear, step-by-step visual experiences. Designed as an educational companion, it helps learners connect theoretical concepts to practical behavior by animating how algorithms manipulate data in real time.
+
+Covering sorting, searching, and graph traversal techniques, the application highlights the decision points, state changes, and performance trade-offs that define each approach. Learners can watch arrays reorganize, search paths narrow, and graphs unfold, gaining intuition about complexity and correctness along the way.
+
+Built with Next.js, TypeScript, and Tailwind CSS, the project emphasizes responsive design, accessibility, and modern UI patterns. Interactive controls for playback, speed, and data generation let users experiment freely, while descriptive overlays explain what each step represents.
+
+By combining engaging visuals with hands-on controls, Algorithm Visualizer offers a comprehensive environment for exploring algorithms, reinforcing classroom lessons, and preparing for technical interviews.
 
 ## Features
 
